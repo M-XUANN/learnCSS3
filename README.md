@@ -15,3 +15,9 @@
 
 # 闪烁的爱心
 [demo](http://htmlpreview.github.io/?https://github.com/M-XUANN/learnCSS3/blob/master/love/love.html)
+
+# 开关按钮
+[demo](http://htmlpreview.github.io/?https://github.com/M-XUANN/learnCSS3/blob/master/button/button.html)
+
+# 上下浮动的幽灵
+[demo](http://htmlpreview.github.io/?https://github.com/M-XUANN/learnCSS3/blob/master/ghost/ghost.html)
