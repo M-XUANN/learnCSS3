@@ -3,7 +3,31 @@ body html{
   background-color:#f8f8f8;
   overflow:hidden;
 }
+.header{
+  height: 50px;
+  width: 900px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.header ul li{
+  list-style: none;
+  display: inline-block;
+  width: auto;
+  border: 1px solid #686060;
+  color: #fff;
+  border-radius: 30px;
+  background-color: #EA5757;
+}
+.header ul li a{
+  display: block;
+  width: auto;
+  color: #fff;
+text-align: center;
+padding: 10px;
+text-decoration: none;
+width: 100px;
 
+}
 .ghost{
   width:125px;
   height:200px;
