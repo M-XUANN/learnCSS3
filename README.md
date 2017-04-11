@@ -14,7 +14,7 @@
 
 
 ### 旋转效果
-[demo](https://m-xuann.github.io/learnCSS3/rotate1/CSS3.HTML)
+[demo](https://m-xuann.github.io/learnCSS3/rotate1/css3.html)
 
 
 ### 闪烁的爱心
